@@ -6,7 +6,8 @@ public class Second {
     }
 
     public void M2(){
-        System.out.println("test!!");
+
+        System.out.println("test!!123");
     }
 
     public static void main(String[] args) {
