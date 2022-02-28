@@ -2,7 +2,7 @@ public class Second {
 
 
     public void M1(){
-        System.out.println("Hello");
+        System.out.println("Hello123");
     }
 
     public static void main(String[] args) {
