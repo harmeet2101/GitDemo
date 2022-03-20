@@ -8,4 +8,8 @@ class Forth(){
     boolean M2(boolean flag){
         return  flag!;
     }
+
+    double add (double x , double y){
+        return x + y ;
+    }
 }
