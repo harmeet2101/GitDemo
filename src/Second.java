@@ -7,6 +7,8 @@ public class Second {
 
     public void M2(){
         System.out.println("test");
+
+        System.out.println("work on feature 2 stared");
     }
 
     public static void main(String[] args) {
