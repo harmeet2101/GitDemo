@@ -8,7 +8,7 @@ class Third{
         return INSTANCE;
     }
 
-    private void M1(){
-        System.out.println("testing....");
+    private boolean M1(boolean flag){
+        return  !flag;
     }
 }
