@@ -7,4 +7,6 @@ class Third{
     public static Third getInstance() {
         return INSTANCE;
     }
+
+    private void M1(){}
 }
