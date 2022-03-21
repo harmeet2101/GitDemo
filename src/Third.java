@@ -8,5 +8,7 @@ class Third{
         return INSTANCE;
     }
 
-    private void M1(){}
+    private void M1(){
+        System.out.println("testing....");
+    }
 }
