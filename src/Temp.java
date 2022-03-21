@@ -1,12 +1,21 @@
-class Temp<T>{
+class Temp<K,V>{
 
-    T obj;
+    K k;
+    V v;
 
-    public T getObj() {
-        return obj;
+    public K getK() {
+        return k;
     }
 
-    public void setObj(T obj) {
-        this.obj = obj;
+    public void setK(K k) {
+        this.k = k;
+    }
+
+    public V getV() {
+        return v;
+    }
+
+    public void setV(V v) {
+        this.v = v;
     }
 }
